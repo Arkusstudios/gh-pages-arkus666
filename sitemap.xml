@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://Arkusstudios.github.io/Web-Prueba/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.arkus666.linkpc.net/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://Arkusstudios.github.io/Web-Prueba/</loc>
+<loc>https://www.arkus666.linkpc.net/</loc>
+</url>
+<url>
+<loc>https://www.arkus666.linkpc.net/arkusweb.html</loc>
+<lastmod>2025-10-01T14:47:09-05:00</lastmod>
+<image:image>
+<image:loc>https://www.arkus666.linkpc.net/media/posts/1/2.png</image:loc>
+<image:title><![CDATA[HeaderPH]]></image:title>
+</image:image>
 </url>
 </urlset>

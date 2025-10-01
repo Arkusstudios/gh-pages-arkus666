@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Arkus Studios</title>
-    <link href="https://Arkusstudios.github.io/Web-Prueba/feed.xml" rel="self" />
-    <link href="https://Arkusstudios.github.io/Web-Prueba" />
+    <link href="https://www.arkus666.linkpc.net/feed.xml" rel="self" />
+    <link href="https://www.arkus666.linkpc.net" />
     <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
         <name>Edward Morningstar</name>
     </author>
-    <id>https://Arkusstudios.github.io/Web-Prueba</id>
+    <id>https://www.arkus666.linkpc.net</id>
 
 </feed>
