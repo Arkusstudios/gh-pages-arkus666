@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Arkusstudios.github.io/Web-Prueba/sitemap.xml
